@@ -3,13 +3,16 @@ This repository is for the team to develop the solution of the competition.
 
 ## Prepare the development environment
 ### Some basics
-Install Git (and Homebrew if using Mac) if not already installed.
+Install Git and Python3 (and Homebrew if using Mac) if not already installed.
 
 On Mac:
 
 Homebrew:
 
     /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+Git:
+
+    brew install git
 Python3:
 
     brew install python
