@@ -17,6 +17,10 @@ Python3:
 
     brew install python
 
+Clone this repository to your local if not already done:
+
+    git clone https://github.com/laichunpongben/neurips-2019-minerl-competition.git
+
 ### Set up Java 8
 Check Java runtime version.
 
@@ -44,9 +48,11 @@ On Debian/Ubuntu:
 ### Set up Python virtual environment
     python3 -m venv ~/.virtualenvs/minerl
     source ~/.virtualenvs/minerl/bin/activate
+    cd neurips-2019-minerl-competition
     pip3 install -r requirements.txt
 
 ### Prepare Jupyter notebook and kernels
+    deactivate
     pip3 install jupyter
     source ~/.virtualenvs/minerl/bin/activate
     pip3 install ipykernel
