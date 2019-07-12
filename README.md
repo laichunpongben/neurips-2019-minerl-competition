@@ -5,6 +5,15 @@ This repository is for the team to develop the solution of the competition.
 ### Some basics
 Install Git (and Homebrew if using Mac) if not already installed.
 
+On Mac:
+
+Homebrew:
+
+    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+Python3:
+
+    brew install python
+
 ### Set up Java 8
 Check Java runtime version.
 
