@@ -43,6 +43,8 @@ On Debian/Ubuntu:
     sudo apt-get install openjdk-8-jdk
 
 ### Set up xvfb
+This is for running the process without the head. Optional.
+
     sudo apt-get install xvfb
 
 ### Set up Python virtual environment
