@@ -2,10 +2,16 @@
 This repository is for the team to develop the solution of the competition. 
 
 ## Prepare the development environment
+### Some basics
+Install Git (and Homebrew if using Mac) if not already installed.
+
 ### Set up Java 8
 Check Java runtime version.
 
     java -version
+It should display something similar to:
+
+    openjdk version "1.8.0_212"
 If not using Java 8, install it.
 
 On Mac:
